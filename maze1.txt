@@ -1,0 +1,6 @@
+     DB DD
+ D DDDD DD
+ D D  D  D
+ D D DDD  
+        D 
+A DDDDD   
